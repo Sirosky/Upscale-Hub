@@ -49,6 +49,6 @@ As the name suggests, Ani4K is trained to create natural-looking 2K/4K upscales 
 - **Detail Retention**: ⭐⭐⭐⭐⭐
 - **Compression Cleanup**: ⭐⭐(will deal with compression in HD/FHD BD and WEB sources without a hitch, but struggles with DVDs-- use Anima or AniDVD for DVD sources)
 
-## **HD/FHD Sources - AniScaleV1**
+## **Legacy Model - AniScaleV1**
     
 My very first publicly released model. I consider it obsolete at this point, but some people might prefer the sharper look, so I'm releasing it here as well. As a first generation model, I trained AniScale to serve as a general-purpose model for all sources. Unfortunately, it simply isn't possible to have a single model do everything well-- subsequent generations of models are more specialized, and will do better for the sources they specialize in. While the model is great with details and dealing with a variety of video artifacts, it has a tendency to oversharpen some sources and background details. It doesn't handle blur at all either, though that's a problem common with many other anime models. 
