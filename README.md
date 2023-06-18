@@ -30,7 +30,7 @@ Anima (short for Animaster), is trained to be a versatile and flexible "all-roun
 
 ### **\[Coming soon (tm)\] DVD Sources - AniDVD \[Gen 5, Compact\]**
 
-\[Gen 5, Compact\] AniDVD features the strongest artifact/compression clean-up capability. However, this unavoidably comes at the expense of detail retention. As Anima should already be adequate for the vast majority of DVDs, it is recommended to only use AniDVD when necessary.
+AniDVD features the strongest artifact/compression clean-up capability. However, this unavoidably comes at the expense of detail retention. As Anima should already be adequate for the vast majority of DVDs, it is recommended to only use AniDVD when necessary.
 
 - **Download**
 - **Image Comparison**
