@@ -22,7 +22,7 @@ My very first publicly released model. I consider it obsolete at this point, but
 
 # 📚 Model Training Principles
 
-This section provides a brief overview of the guiding principles I follow while training my models. It should give a sense of whether these are the right models for you, and what sets my models apart from others.
+This section provides an overview of the guiding principles I follow while training my models. It should give a sense of whether these are the right models for you, and what sets my models apart from others.
 
 **Balanced** **Sharpness**: While my models deblur and sharpen the input, they aren't the sharpest ones available. This is intentional-- the models aim to produce a *natural-looking* upscale, as if the result was something natively produced by the studio. In addition, oversharpening tends to produce undesireable artifacts.
 
