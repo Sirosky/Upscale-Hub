@@ -1,17 +1,57 @@
-# Sirosky's Super Resolution Models
+# 📷 Sirosky's Super Resolution Models
 
 A repository containing upscaling models I created for public use. Currently, there are only 2x models for anime, but I plan on training models for RL footage at some point as well.
 
-If you are just looking for the sharpest possible upscaling model, my models probably won't be of interest. But if you're looking for models trained with a focus on the faithful enhancement of the video and images being upscaled, then have a gander.
+![b0aa1c8dff59721d4d2063a1c7611956.png](file:///C:/Users/Sirosky/.config/joplin-desktop/resources/a99db58d01064e28ad5299c2657add60.png)
 
-# Released Models
+*Comparison image for AniDVD.*
 
-- **Upscaling HD/FHD**
-    - **2x Ani4K** \[Gen 5, Compact\]: As the name suggests, Ani4K is trained to create natural-looking 2K/4K upscales from 720p/1080p sources (that is, the results should look as close as possible to a hypothetical native 2K/4K release from a studio). To achieve this, particular attention was placed on:
-        - **Depth of Field and Intentional Blur Retention**: DOF/blur effects are extremely common in modern anime. While it can be tempting to sharpen the crap out of everything on the screen (see AniScaleV1 below), such an approach can create odd-looking results when it brings into focus items that should be out of focus. Ani4K's DOF/blur effect retention isn't perfect, but it gets pretty close.
-        - **Line Art Retention**: Retaining crisp line art is key to making anime upscales look pleasing to the eye. Some models, even those trained on modern anime, can produce "hallowed" lines at higher resolutions. Ani4K avoids this issue by "solidifying" the lines.
-        - **Compression Clean-up**: Even modern Bluray releases will contain some compression artifacts. Ani4K will clean up artifacting as part of the upscaling process.
-        - **Detail Retention**: This largely speaks for itself-- you don't want a model that nukes textures and/or destroys details. Ani4K will retain complex textures and subtle details without a hitch.
-- **Legacy Model**
+# 📚 Model Training Principles
+
+This section provides a brief overview of the guiding principles I follow while training my models. It should give a sense of whether these are the right models for you, and what sets my models apart from others.
+
+- **Balanced** **Sharpness**: While my models deblur and sharpen the input, they aren't the sharpest ones available. This is intentional-- the models aim to produce a *natural-looking* upscale, as if the result was something natively produced by the studio. In addition, oversharpening tends to produce undesireable artifacts.
+
+![d0c1e72695a45e6f5ac38a2d99167512.png](file:///C:/Users/Sirosky/.config/joplin-desktop/resources/74f81ec425ec46dc8406bf54584fce81.png)
+
+*Roof tiles so sharp that you can cut yourself on them*.
+
+- **Line Art** **Retention**: Retaining crisp line art is key to making anime upscales look pleasing to the eye. Some models, even those trained on modern anime, can produce "hallowed" lines (example below) at higher resolutions. My models are trained to retain / enhance line art, and of course, avoid the hallowed line effect.
+
+![3811b129c9559234fb5ae33ee713ac9c.png](file:///C:/Users/Sirosky/.config/joplin-desktop/resources/914503bfcf9a40f4bfd138d5b93500bf.png)
+
+*Note how the lines here don't seem solid. Sometimes, it's an artistic decision. But this example is the model not properly handling line art after oversharpening.* 🤢
+
+- **Detail Retention**: This largely speaks for itself-- you don't want a model that nukes textures and/or destroys details. While it's not always possible to achieve flawless detail retention (especially with models that have more-aggressive clean-up), detail retention is something that my models generally excel in.
+
+![026dfe45c6f1de6abbed83046a7bee9e.png](file:///C:/Users/Sirosky/.config/joplin-desktop/resources/8131e04847a14ad6b042a548c4ade924.png)
+
+*Where did the fence go?*
+
+- **Compression Clean-up**: This is self-explanatory as well. When upscaling, the model should clean up compression artifacts present in the source (haloing, noise, chroma bleed, etc.) rather than upscale the artifacts along with the rest of the picture. However, it is also important to not go overboard, as doing so comes at the expense of detail retention.
+
+![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/2b30654d-0a0e-42d6-a85f-0b087f622511)
+*On the left, an example of a model that upscaled but didn't fix the white haloing, vs. on the right, AniDVD which upscaled and cleaned* haloing.
+
+- **Depth of Field and Intentional Blur Retention**: DOF/blur effects are extremely common in modern anime, and present even in older anime. While it can be tempting to sharpen the crap out of everything on the screen (see AniScaleV1 below), such an approach can create odd-looking results when it brings into focus items that should be out of focus. Aside from AniScaleV1, which is the first model I ever released, all my models are trained to handle blur effects are appropriately.
+
+![9bf7f1ac305665518e9e70052a3ea155.png](file:///C:/Users/Sirosky/.config/joplin-desktop/resources/a9c9cf44711242d9ae4505314a10eda9.png)![1a70f5419017c05c3ceaf18516c04d69.png](file:///C:/Users/Sirosky/.config/joplin-desktop/resources/458c462f69ae4b4cbc5ce3a06d34c974.png)
+
+*Some things are better left blurred...*
+
+- **Upscaling Artifacts**: Some models produce upscaling artifacts-- blemishes on the image generated by the model during the upscaling process. These can vary from annoying to hardly noticeable, but in my book, it's best to avoid generating artifacts to begin with!
+
+![edf98a2064f11432bb20300216996898.png](file:///C:/Users/Sirosky/.config/joplin-desktop/resources/868c55658171477a885e2be1c5cbdcba.png)![684feb1d0b1ec07ecff12bca275fde1e.png](file:///C:/Users/Sirosky/.config/joplin-desktop/resources/42b140c9781c43dd9cbe139b5ac6e20e.png)
+
+*An example of a fairly subtle artifact-- the white glow generated at the intersection of the two lines.*
+
+# ⏬ Released Models
+
+## **Upscaling HD/FHD - Ani4K**
+
+- **2x Ani4K** [Gen 5, Compact]: As the name suggests, Ani4K is trained to create natural-looking 2K/4K upscales from 720p/1080p sources (that is, the results should look as close as possible to a hypothetical native 2K/4K release from a studio).
+    
+    - **Detail Retention**: ⭐⭐⭐⭐⭐
+    - **Compression Cleanup**: ⭐⭐(will deal with compression in HD/FHD BD and WEB sources without a hitch, but struggles with DVDs-- use Anima or AniDVD for DVD sources)
     
     - **2x AniScaleV1** \[Gen 1, Compact\]: My very first publicly released model. I consider it obsolete at this point, but some people might prefer the sharper look, so I'm releasing it here as well. As a first generation model, I trained AniScale to serve as a general-purpose model for all sources. Unfortunately, it simply isn't possible to have a single model do everything well-- subsequent generations of models are more specialized, and suited will do better for specific sources. While the model is great with details and dealing with a variety of video artifacts, it has a tendency to oversharpen some sources and background details. It doesn't handle blur at all either, though that's a problem common with many other anime models. 
