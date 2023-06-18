@@ -1,6 +1,6 @@
 # 📷 Sirosky's Super Resolution Models
 
-A repository containing upscaling models I created for public use. Currently, there are only 2x models for anime, but I plan on training models for RL footage at some point as well.
+A repository containing upscaling models I created for public use. Currently, there are only 2x models for anime, but I plan on training models for RL footage at some point as well. The easiest ways to use these models would be through [Chainner](https://chainner.app/) (slower, but free) or [Enhancr](https://github.com/mafiosnik777/enhancr) (faster, but freemium).
 
 ![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/2b30654d-0a0e-42d6-a85f-0b087f622511)
 
@@ -8,13 +8,44 @@ A repository containing upscaling models I created for public use. Currently, th
 
 # ⏬ Released Models
 *Ratings included for each model are meant to serve as a quick point of reference to see how the models differ.*
+### **HD/FHD Sources - Ani4K \[Gen 5, Compact\]**
 
-### **HD/FHD Sources - Ani4K**
+\[Gen 5, Compact\] As the name suggests, Ani4K is trained to create natural-looking 2K/4K upscales from 720p/1080p sources. In particular, the model has superb detail retention.
 
-As the name suggests, Ani4K is trained to create natural-looking 2K/4K upscales from 720p/1080p sources. In particular, the model has superb detail retention.
-
+- **Download**
+- **Image Comparisons**:
+    - Blur Comparison
+    - General Comparison
 - **Detail Retention**: ⭐⭐⭐⭐⭐
-- **Compression Cleanup**: ⭐⭐(will deal with compression in HD/FHD BD and WEB sources without a hitch, but struggles with DVDs-- use Anima or AniDVD for DVD sources)
+- **Compression Cleanup**: ⭐⭐(will deal with compression in HD/FHD BD and WEB sources without a hitch, but may be less suited for DVDs-- use Anima or AniDVD for DVD sources)
+
+### **\[Coming soon (tm)\] HD/DVD Sources - Anima \[Gen 5, Compact\]**
+
+Anima (short for Animaster), is trained to be a versatile and flexible "all-rounder" model suitable for a variety of sources, both HD and SD. As it still boasts excellent detail retention despite having a much stronger artifact clean-up effect than Ani4K, this should be the default model for use on DVDs, with AniDVD being reserved for truly horrible DVD sources.
+
+- **Download**
+- **Image Comparison**
+- **Detail Retention**: ⭐⭐⭐⭐
+- **Compression Cleanup**: ⭐⭐⭐⭐
+
+### **\[Coming soon (tm)\] DVD Sources - AniDVD \[Gen 5, Compact\]**
+
+\[Gen 5, Compact\] AniDVD features the strongest artifact/compression clean-up capability. However, this unavoidably comes at the expense of detail retention. As Anima should already be adequate for the vast majority of DVDs, it is recommended to only use AniDVD when necessary.
+
+- **Download**
+- **Image Comparison**
+- **Detail Retention**: ⭐⭐⭐
+- **Compression Cleanup**: ⭐⭐⭐⭐⭐
+
+### **Legacy Model - AniScaleV1 \[Gen 1, Compact\]**
+
+My very first publicly released model. I consider it obsolete at this point, but some people might prefer the sharper look, so I'm releasing it here as well. As a first generation model, I trained AniScale to serve as a general-purpose model for all sources. Unfortunately, it simply isn't possible to have a single model do everything well-- subsequent generations of models are more specialized, and will do better for the sources they specialize in. While the model is great with details and dealing with a variety of video artifacts, it has a tendency to oversharpen some sources and background details. It doesn't handle blur at all either, though that's a problem common with many other anime models.
+
+- **Image Comparison**
+- **Detail Retention**: ⭐⭐⭐⭐
+- **Compression Cleanup**: ⭐⭐⭐⭐
+- **Blur / DOF Effect Retention**: ⭐ (oversharpens out-of-focus objects)
+- **Upscaling Artifacts**: ⭐⭐⭐ (slight color shifting on some objects)
 
 ### **Legacy Model - AniScaleV1**
     
@@ -41,11 +72,12 @@ This section provides an overview of the guiding principles I follow while train
 ![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/af1f4312-d12b-4d2b-9f2a-5ceb3dbdb74d)
 
 *Where did the fence go?*
+
 **Compression Clean-up**: This is self-explanatory as well. When upscaling, the model should clean up compression artifacts present in the source (haloing, noise, chroma bleed, etc.) rather than upscale the artifacts along with the rest of the picture. However, it is also important to not go overboard, as doing so comes at the expense of detail retention.
 
 ![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/516a3779-780a-45e4-975d-69258a944abd)![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/c3586dd8-1837-4598-9780-39685fa34509)
 
-*On the left, an example of a model that upscaled but didn't fix the white haloing, vs. on the right, AniDVD which upscaled and cleaned* haloing.
+*On the left, an example of a model that upscaled but didn't fix the white haloing, vs. on the right, AniDVD which upscaled and cleaned haloing*.
 
 **Depth of Field and Intentional Blur Retention**: DOF/blur effects are extremely common in modern anime, and present even in older anime. While it can be tempting to sharpen the crap out of everything on the screen (see AniScaleV1 below), such an approach can create odd-looking results when it brings into focus items that should be out of focus. Aside from AniScaleV1, which is the first model I ever released, all my models are trained to handle blur effects appropriately.
 
