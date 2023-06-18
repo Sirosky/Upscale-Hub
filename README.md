@@ -17,25 +17,7 @@ A repository containing upscaling models I created for public use. Currently, th
     - Blur Comparison
     - General Comparison
 - **Detail Retention**: ⭐⭐⭐⭐⭐
-- **Compression Cleanup**: ⭐⭐(will deal with compression in HD/FHD BD and WEB sources without a hitch, but may be less suited for DVDs-- use Anima or AniDVD for DVD sources)
-
-### **\[Coming soon (tm)\] HD/DVD Sources - Anima \[Gen 5, Compact\]**
-
-Anima (short for Animaster), is trained to be a versatile and flexible "all-rounder" model suitable for a variety of sources, both HD and SD. As it still boasts excellent detail retention despite having a much stronger artifact clean-up effect than Ani4K, this should be the default model for use on DVDs, with AniDVD being reserved for truly horrible DVD sources.
-
-- **Download**
-- **Image Comparison**
-- **Detail Retention**: ⭐⭐⭐⭐
-- **Compression Cleanup**: ⭐⭐⭐⭐
-
-### **\[Coming soon (tm)\] DVD Sources - AniDVD \[Gen 5, Compact\]**
-
-AniDVD features the strongest artifact/compression clean-up capability. However, this unavoidably comes at the expense of detail retention. As Anima should already be adequate for the vast majority of DVDs, it is recommended to only use AniDVD when necessary.
-
-- **Download**
-- **Image Comparison**
-- **Detail Retention**: ⭐⭐⭐
-- **Compression Cleanup**: ⭐⭐⭐⭐⭐
+- **Compression Cleanup**: ⭐⭐(will deal with compression in HD/FHD BD and WEB sources without a hitch, but may be less suited for DVDs-- I'll be releasing separate models for DVDs)
 
 ### **Legacy Model - AniScaleV1 \[Gen 1, Compact\]**
 
