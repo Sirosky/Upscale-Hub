@@ -47,10 +47,6 @@ My very first publicly released model. I consider it obsolete at this point, but
 - **Blur / DOF Effect Retention**: ⭐ (oversharpens out-of-focus objects)
 - **Upscaling Artifacts**: ⭐⭐⭐ (slight color shifting on some objects)
 
-### **Legacy Model - AniScaleV1**
-    
-My very first publicly released model. I consider it obsolete at this point, but some people might prefer the sharper look, so I'm releasing it here as well. As a first generation model, I trained AniScale to serve as a general-purpose model for all sources. Unfortunately, it simply isn't possible to have a single model do everything well-- subsequent generations of models are more specialized, and will do better for the sources they specialize in. While the model is great with details and dealing with a variety of video artifacts, it has a tendency to oversharpen some sources and background details. It doesn't handle blur at all either, though that's a problem common with many other anime models. 
-
 # 📚 Model Training Principles
 
 This section provides an overview of the guiding principles I follow while training my models. It should give a sense of whether these are the right models for you, and what sets my models apart from others.
