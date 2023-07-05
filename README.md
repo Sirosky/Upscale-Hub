@@ -70,3 +70,10 @@ This section provides an overview of the guiding principles I follow while train
 ![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/00f24508-da8d-4b8e-80ce-49e7f50c5927)![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/774bcdf6-f016-4b4d-b306-8d82381f148a)
 
 *An example of a fairly subtle artifact-- the white glow generated at the intersection of the two lines.*
+
+**Use Common Sense!**
+
+![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/5567714e-bd54-4f81-9d61-d28f98bc9fde)
+
+*We're in the business of upscaling and/or restoring the source, not turning it into watercolor!*
+
