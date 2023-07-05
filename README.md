@@ -1,6 +1,3 @@
-
-![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/b11fae60-f263-4e51-a887-7d6e0c81cf88)
-
 # 📷 Sirosky's Super Resolution Models
 
 A repository containing upscaling models I created for public use. Currently, there are only 2x models for anime, but I plan on training models for RL footage at some point as well. The easiest ways to use these models would be through [Chainner](https://chainner.app/) (slower, but free) or [Enhancr](https://github.com/mafiosnik777/enhancr) (faster, but freemium).
