@@ -87,5 +87,6 @@ This section provides an overview of the guiding principles I follow while train
 
 ![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/5567714e-bd54-4f81-9d61-d28f98bc9fde)
 
-*We're in the business of upscaling and/or restoring the source, not turning it into watercolor!*
+*We're in the business of upscaling and/or restoring the source, not turning it into watercolor! Comparison courtesty of exotic2269 on the EE Discord.*
+
 
