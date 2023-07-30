@@ -38,6 +38,7 @@ My very first publicly released model. I consider it obsolete at this point, but
 - [OpenModelDB](https://openmodeldb.info/): A fantastic resource for all things upscaling.
 - [Dataset Destroyer](https://github.com/Kim2091/helpful-scripts/tree/main/Dataset%20Destroyer) by Kim2091: A crucial part of the dataset preparation process that makes image degradation oh so easy!
 - The developers and contributors to neural network models such as [ESRGAN]([url](https://github.com/xinntao/ESRGAN)), [SRVGGNetCompact]([url](https://github.com/xinntao/Real-ESRGAN)), [OmniSR](https://github.com/Francis0625/Omni-SR), [SwinIR]([url](https://github.com/JingyunLiang/SwinIR)) and more for developing the networks on which these models are based.
+- [Simple Image Compare](https://github.com/Sirosky/Simple-Image-Compare): Another tool by yours truly. A minimalistic image comparison tool which I developed because ICAT sucks.
 - And last but certainly not least, the [Enhance Everything Discord community](https://discord.gg/cpAUpDK) for their invaluable support and guidance. I also blame them for my neural network training addiction.
 
 
