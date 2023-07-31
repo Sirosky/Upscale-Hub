@@ -36,6 +36,7 @@ My very first publicly released model. I consider it obsolete at this point, but
 - [ImgAlign](https://github.com/sonic41592/ImgAlign) by sonic41592: A fantastic little tool which can automate one of those tedious parts of image pair dataset preparation.
 - [Image Pearer](https://github.com/Sirosky/Image-Pearer): A tool to automate the image pairing process by yours truly. Allows automation of the _other_ most tedious part of the image pair dataset preparation process.
 - [OpenModelDB](https://openmodeldb.info/): A fantastic resource for all things upscaling.
+- [TraiNNer Redux and Forks](https://github.com/joeyballentine/traiNNer-redux) by Joey, muslll and other contributors: All my models are trained on Redux and its forks.
 - [Dataset Destroyer](https://github.com/Kim2091/helpful-scripts/tree/main/Dataset%20Destroyer) by Kim2091: A crucial part of the dataset preparation process that makes image degradation oh so easy!
 - The developers and contributors to neural network models such as [ESRGAN]([url](https://github.com/xinntao/ESRGAN)), [SRVGGNetCompact]([url](https://github.com/xinntao/Real-ESRGAN)), [OmniSR](https://github.com/Francis0625/Omni-SR), [SwinIR]([url](https://github.com/JingyunLiang/SwinIR)) and more for developing the networks on which these models are based.
 - [Simple Image Compare](https://github.com/Sirosky/Simple-Image-Compare): Another tool by yours truly. A minimalistic image comparison tool which I developed because ICAT sucks.
