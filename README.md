@@ -2,9 +2,9 @@
 
 A repository containing upscaling models I created for public use. Currently, there are only 2x models for anime, but I plan on training models for RL footage at some point as well. The easiest ways to use these models would be through [Chainner](https://chainner.app/) (slower, but free) or [Enhancr](https://github.com/mafiosnik777/enhancr) (faster, but freemium).
 
-![image](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/06777dde-eff7-4c88-b83b-a2602e090a5a)
+![Simple_Image_Compare_1 1_2bN7HYvgqP](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/08daf2a6-5325-42ee-a29b-dcfcd665d735)
 
-*Comparison image for AniDVD.*
+*Comparison image for [REDACTED].*
 
 # ⏬ Released Models
 *Ratings included for each model are meant to serve as a quick point of reference to see how the models differ.*
