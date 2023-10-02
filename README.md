@@ -12,7 +12,7 @@ A repository containing upscaling models I created for public use. Currently, th
 
 \[Gen 5, Compact\] As the name suggests, Ani4K is trained to create natural-looking 2K/4K upscales from 720p/1080p sources. In particular, the model has superb detail retention.
 
-- **[Download](https://github.com/Sirosky/Sirosky-Upscaling-Models/releases)**
+- **[Download](https://github.com/Sirosky/Upscale-Hub/releases/tag/compact)**
 - **Image Comparisons**:
     - [Blur Comparison](https://imgsli.com/MTg2NTg5/4/5)
     - [General Comparison](https://imgsli.com/MTg2ODI2)
@@ -23,7 +23,7 @@ A repository containing upscaling models I created for public use. Currently, th
 
 My very first publicly released model. I consider it obsolete at this point, but some people might prefer the sharper look, so I'm releasing it here as well. As a first generation model, I trained AniScale to serve as a general-purpose model for all sources. Unfortunately, it simply isn't possible to have a single model do everything well-- subsequent generations of models are more specialized, and will do better for the sources they specialize in. While the model is great with details and dealing with a variety of video artifacts, it has a tendency to oversharpen some sources and background details. It doesn't handle blur at all either, though that's a problem common with many other anime models.
 
-- **[Download](https://github.com/Sirosky/Sirosky-Upscaling-Models/blob/main/2x_AniScaleV1_55000.pth)**
+- **[Download](https://github.com/Sirosky/Upscale-Hub/blob/main/2x_AniScaleV1_55000.pth)**
 - **Image Comparison**
 - **Detail Retention**: ⭐⭐⭐⭐
 - **Compression Cleanup**: ⭐⭐⭐⭐
