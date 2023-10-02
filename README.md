@@ -1,10 +1,14 @@
-# 📷 Sirosky's Super Resolution Models
+# 📷 Upscale Hub
 
-A repository containing upscaling models I created for public use. Currently, there are only 2x models for anime, but I plan on training models for RL footage at some point as well. The easiest ways to use these models would be through [Chainner](https://chainner.app/) (slower, but free) or [Enhancr](https://github.com/mafiosnik777/enhancr) (faster, but freemium). See [How to Upscale a Video Using chaiNNer (Step by Step)](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%BA-How-to-Upscale-a-Video-Using-chaiNNer-(Step-by-Step)) and the [enhancr wiki](https://github.com/mafiosnik777/enhancr/wiki) on how to get started with upscaling.
+This repository is intended to be a hub of resources for upscaling, neural network training, as well as a collection of the models which I've trained.
 
 ![Simple_Image_Compare_1 1_2bN7HYvgqP](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/08daf2a6-5325-42ee-a29b-dcfcd665d735)
 
-*Comparison image for [REDACTED].*
+*Comparison image for AniScale 2.*
+
+# ✨ How to Upscale
+
+Upscaling is easiest done through [chaiNNer](https://chainner.app/) (slower, but free) or [enhancr](https://github.com/mafiosnik777/enhancr) (faster, but freemium). See [How to Upscale a Video Using chaiNNer (Step by Step)](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%BA-How-to-Upscale-a-Video-Using-chaiNNer-(Step-by-Step)) and the [enhancr wiki](https://github.com/mafiosnik777/enhancr/wiki) on how to get started with upscaling. Both are great starting points, but if you're not sure which one to pick, check [out the comparison here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%A4%94-Picking-Between-chaiNNer-and-enhancr).
 
 # ⏬ Released Models
 *Ratings included for each model are meant to serve as a quick point of reference to see how the models differ.*
@@ -32,7 +36,7 @@ My very first publicly released model. I consider it obsolete at this point, but
 
 # 🤝 Tools Utilized and Acknowledgements
 
-- [ChaiNNer](https://chainner.app/) by Joey and contributors: The backbone of any of my bulk image processing and upscaling process. These models would not be possible without ChaiNNer.
+- [chaiNNer](https://chainner.app/) by Joey and contributors: The backbone of any of my bulk image processing and upscaling process. These models would not be possible without ChaiNNer.
 - [ImgAlign](https://github.com/sonic41592/ImgAlign) by sonic41592: A fantastic little tool which can automate one of those tedious parts of image pair dataset preparation.
 - [Image Pearer](https://github.com/Sirosky/Image-Pearer): A tool to automate the image pairing process by yours truly. Allows automation of the _other_ most tedious part of the image pair dataset preparation process.
 - [OpenModelDB](https://openmodeldb.info/): A fantastic resource for all things upscaling.
