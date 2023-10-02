@@ -10,7 +10,7 @@ This repository is intended to be a hub of resources for upscaling, neural netwo
 
 Upscaling is easiest done through:
 
-- [chaiNNer](https://chainner.app/) (slower, but free)
+- [chaiNNer](https://chainner.app/) (slower, but free); or
 - [enhancr](https://github.com/mafiosnik777/enhancr) (faster, but freemium).
 
 See [How to Upscale a Video Using chaiNNer (Step by Step)](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%BA-How-to-Upscale-a-Video-Using-chaiNNer-(Step-by-Step)) and the [enhancr wiki](https://github.com/mafiosnik777/enhancr/wiki) on how to get started with upscaling. Both are great starting points, but if you're not sure which one to pick, check [out the comparison here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%A4%94-Picking-Between-chaiNNer-and-enhancr).
