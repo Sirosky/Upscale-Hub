@@ -10,6 +10,13 @@ This repository is intended to be a hub of resources for upscaling, neural netwo
 
 Upscaling is easiest done through [chaiNNer](https://chainner.app/) (slower, but free) or [enhancr](https://github.com/mafiosnik777/enhancr) (faster, but freemium). See [How to Upscale a Video Using chaiNNer (Step by Step)](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%BA-How-to-Upscale-a-Video-Using-chaiNNer-(Step-by-Step)) and the [enhancr wiki](https://github.com/mafiosnik777/enhancr/wiki) on how to get started with upscaling. Both are great starting points, but if you're not sure which one to pick, check [out the comparison here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%A4%94-Picking-Between-chaiNNer-and-enhancr).
 
+# ✨ How to Train Your Own Model
+
+If you're looking for a guide on how to train your own model, check out the following:
+
+- [Training a Model in neosr](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%88-Training-a-Model-in-NeoSR)- A guide I wrote which is up-to-date with current training methodologies, and my totally unbiased personal takes.
+- [Training an image upscaling model](https://www.youtube.com/watch?v=iH7-eYlf7eg)- For those that prefer the video format. I recommend using neosr, but much of the information is still applicable.
+
 # ⏬ Released Models
 *Ratings included for each model are meant to serve as a quick point of reference to see how the models differ.*
 ### **HD/FHD Sources - Ani4K \[Gen 5, Compact\]**
