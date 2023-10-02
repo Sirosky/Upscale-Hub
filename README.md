@@ -1,4 +1,6 @@
-![Upscale Hub Logo](https://github.com/Sirosky/Upscale-Hub/assets/2752448/a36d9d0a-e975-48ef-8281-003ad4a84c7f)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://github.com/Sirosky/Upscale-Hub/assets/2752448/a36d9d0a-e975-48ef-8281-003ad4a84c7f)" />
+</p>
 
 Upscale Hub-- a repository of resources for upscaling and neural network training, as well as a collection of the models I've trained.
 
