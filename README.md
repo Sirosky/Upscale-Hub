@@ -4,12 +4,15 @@
 <p align="center">
 Upscale Hub: a repository of resources for upscaling and neural network training, as well as a collection of the models I've trained.
 </p>
-******
-<p align="center">
-![Simple_Image_Compare_1 1_2bN7HYvgqP](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/08daf2a6-5325-42ee-a29b-dcfcd665d735)
-</p>
-*Comparison image for AniScale 2.*
 
+******
+
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/2752448/271466226-08daf2a6-5325-42ee-a29b-dcfcd665d735.gif" alt="animated" />
+</p>
+<p align="center">
+  <i>Comparison image for AniScale 2 (WIP).</i>
+</p>
 
 # ✨ How to Upscale
 
