@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/a36d9d0a-e975-48ef-8281-003ad4a84c7f" />
+  <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/a36d9d0a-e975-48ef-8281-003ad4a84c7f"/>
 
 
 Upscale Hub: a repository of resources for upscaling and neural network training, as well as a collection of the models I've trained.
@@ -9,8 +9,8 @@ Upscale Hub: a repository of resources for upscaling and neural network training
 ![Simple_Image_Compare_1 1_2bN7HYvgqP](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/08daf2a6-5325-42ee-a29b-dcfcd665d735)
 
 *Comparison image for AniScale 2.*
-</p>
 
+</p>
 # ✨ How to Upscale
 
 Upscaling is easiest done through:
