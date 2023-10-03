@@ -7,9 +7,9 @@ Upscale Hub: a repository of resources for upscaling and neural network training
 ******
 <p align="center">
 ![Simple_Image_Compare_1 1_2bN7HYvgqP](https://github.com/Sirosky/Sirosky-Upscaling-Models/assets/2752448/08daf2a6-5325-42ee-a29b-dcfcd665d735)
-
-*Comparison image for AniScale 2.*
 </p>
+*Comparison image for AniScale 2.*
+
 
 # ✨ How to Upscale
 
