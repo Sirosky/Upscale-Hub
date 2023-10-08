@@ -33,11 +33,27 @@ If you're looking for a guide on how to train your own model, check out the foll
 
 # ⏬ Released Models
 *Ratings included for each model are meant to serve as a quick point of reference to see how the models differ.*
+
+### **DVD/HD/FHD Sources - AniScale 2 \[Gen 6, OmniSR and Compact\]**
+
+\[Gen 6, OmniSR and Compact\] The successor and replacement to the original AniScale, and a substantial upgrade in nearly every respect. AniScale 2 is a versatile and faithful anime model trained for use on a variety of post ~2000 sources. Superb blur and depth of field handling, thorough WEB and DVD compression repair, and pleasing line art refinement are the hallmarks of AniScale 2.
+
+- While AniScale 2 is trained first and foremost as an OmniSR model, AniScale 2 is also intended to be a platform to explore multiple SISR archs. For starters, I've trained OmniSR and Compact versions, but more will come.
+- AniScale 2 also comes with a "refiner" model, creatively named AniScale 2 Refiner (AS2R). AS2R is a 1x Compact model (for maximum speed) trained to supplement and increase the versatility of AniScale 2, without making the base model excessively aggressive. The Refiner is focused on providing light sharpening, fixing line art and line thinning, depending on whether you run the model before or after upscaling with AniScale 2. 
+- For more information, please visit the [Github wiki page](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%8C%9F-AniScale-2-&--AniScale-2-Refiner).
+
+- **[Download](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2)**
+- **Image Comparisons**:
+    - [Blur Comparison](https://imgsli.com/MjEyMjQ1/5/4)
+    - [General Comparison](https://imgsli.com/MjEyMjQw/0/1)
+- **Detail Retention**: ⭐⭐⭐⭐
+- **Compression Cleanup**: ⭐⭐⭐⭐⭐
+- 
 ### **HD/FHD Sources - Ani4K \[Gen 5, Compact\]**
 
 \[Gen 5, Compact\] As the name suggests, Ani4K is trained to create natural-looking 2K/4K upscales from 720p/1080p sources. In particular, the model has superb detail retention.
 
-- **[Download](https://github.com/Sirosky/Upscale-Hub/releases/tag/compact)**
+- **[Download](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4K)**
 - **Image Comparisons**:
     - [Blur Comparison](https://imgsli.com/MTg2NTg5/4/5)
     - [General Comparison](https://imgsli.com/MTg2ODI2)
