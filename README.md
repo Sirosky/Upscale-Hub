@@ -48,7 +48,7 @@ If you're looking for a guide on how to train your own model, check out the foll
     - [General Comparison](https://imgsli.com/MjEyMjQw/0/1)
 - **Detail Retention**: ⭐⭐⭐⭐
 - **Compression Cleanup**: ⭐⭐⭐⭐⭐
-- 
+  
 ### **HD/FHD Sources - Ani4K \[Gen 5, Compact\]**
 
 \[Gen 5, Compact\] As the name suggests, Ani4K is trained to create natural-looking 2K/4K upscales from 720p/1080p sources. In particular, the model has superb detail retention.
