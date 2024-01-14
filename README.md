@@ -16,8 +16,8 @@ Upscale Hub: a repository of resources for upscaling and neural network training
 
 # ✨ How to Upscale
 
-Want to upscale a video? [Take a look here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%BA-How-to-Upscale-a-Video).
-Want to upscale an image or multiple images? [Take a look here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%B7-How-to-Upscale-an-Image-or-Multiple-Images).
+- Want to upscale a video? [Take a look here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%BA-How-to-Upscale-a-Video).
+- Want to upscale an image or multiple images? [Take a look here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%B7-How-to-Upscale-an-Image-or-Multiple-Images).
 
 # 📈 How to Train Your Own Model
 
