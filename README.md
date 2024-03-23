@@ -28,31 +28,14 @@ If you're looking for a guide on how to train your own model, check out the foll
 - [Additional resources for training](https://github.com/Kim2091/training-info) - A list of additional resources and other information for training purposes, prepared by Kim2091.
 
 # ⏬ Released Models
-*Ratings included for each model are meant to serve as a quick point of reference to see how the models differ.*
 
-### <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/52c56a2c-d2d0-487a-a201-c991dc2b0a06" width="64"/> **DVD/HD/FHD Sources - AniScale 2 \[Gen 6, OmniSR, Compact, etc.\]**
+> [!TIP]
+> Click on the banner to download or more information.
 
-\[Gen 6, OmniSR, Compact, etc.\] The successor and replacement to the original AniScale, and a substantial upgrade in nearly every respect. AniScale 2 is a versatile and faithful anime model trained for use on a variety of post ~2000 sources. Superb blur and depth of field handling, thorough WEB and DVD compression repair, and pleasing line art refinement are the hallmarks of AniScale 2.
+[![Banner AniScale 2](https://github.com/Sirosky/Upscale-Hub/assets/2752448/46850c3b-f5e6-4b5e-8b2e-acaf32622a95)](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2)
 
-- While AniScale 2 is trained first and foremost as an OmniSR model, AniScale 2 is also intended to be a platform to explore multiple SISR archs. For starters, I've trained OmniSR and Compact versions, but more will come.
-- AniScale 2 also comes with a "refiner" model, creatively named AniScale 2 Refiner (AS2R). AS2R is a 1x Compact model (for maximum speed) trained to supplement and increase the versatility of AniScale 2, without making the base model excessively aggressive. The Refiner is focused on providing light sharpening, fixing line art and line thinning, depending on whether you run the model before or after upscaling with AniScale 2. 
-- For more information, please visit the [Github wiki page](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%8C%9F-AniScale-2-&--AniScale-2-Refiner).
+[![Banner OpenProteus](https://github.com/Sirosky/Upscale-Hub/assets/2752448/931867ba-e1e9-4226-b6a7-37c6291316a8)](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus)
 
-- **[Download](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2)**
-    - If you're unsure which version to start with, I recommend trying the [OmniSR version](https://github.com/Sirosky/Upscale-Hub/releases/download/AniScale2/2x_AniScale2_Omni_i16_40K.pth) first. More details on the Wiki page linked above.
-- **Image Comparisons**:
-    - [Blur Comparison](https://imgsli.com/MjEyMjQ1/5/4)
-    - [General Comparison](https://imgsli.com/MjEyMjQw/0/1)
-- **Detail Retention**: ⭐⭐⭐⭐
-- **Compression Cleanup**: ⭐⭐⭐⭐⭐
-
-### <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/978362f6-540b-424b-9e76-55432c5cea3a" width="64"/> **HD/FHD Live Action TV and Cinema - Open Proteus \[Compact\]**
-
-\[Compact\] Yes... not an anime model for a change! Topaz Video AI is generally considered amongst the industry leaders of in upscaling movies and TV, however it sits behind a significant paywall. Open Proteus is a free alternative to Topaz's Proteus AI, and intended to upscale high-quality and low-noise HD sources to 4K. While I won't claim this is superior to Topaz Proteus by most metrics (which would be a near-impossible feat on open-source architectures anyway), Open Proteus produces output which is highly faithful, without causing oversharpening or upscaling artifacts.
-
-- **[Download](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus))**
-- **Image Comparisons**: [General Comparison](https://slow.pics/c/NM9BzYz0)
-  
 ### **Legacy Models**
 
 Looking for one of my older models? You can [still find them here](https://github.com/Sirosky/Upscale-Hub/blob/main/Legacy/Legacy%20Models.md).
