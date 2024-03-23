@@ -50,7 +50,7 @@ If you're looking for a guide on how to train your own model, check out the foll
 
 \[Compact\] Yes... not an anime model for a change! Topaz Video AI is generally considered amongst the industry leaders of in upscaling movies and TV, however it sits behind a significant paywall. Open Proteus is a free alternative to Topaz's Proteus AI, and intended to upscale high-quality and low-noise HD sources to 4K. While I won't claim this is superior to Topaz Proteus by most metrics (which would be a near-impossible feat on open-source architectures anyway), Open Proteus produces output which is highly faithful, without causing oversharpening or upscaling artifacts.
 
-- **[Download]([https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus))**
+- **[Download](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus))**
 - **Image Comparisons**: [General Comparison](https://slow.pics/c/NM9BzYz0)
   
 ### **Legacy Models**
