@@ -30,7 +30,7 @@ If you're looking for a guide on how to train your own model, check out the foll
 # ⏬ Released Models
 *Ratings included for each model are meant to serve as a quick point of reference to see how the models differ.*
 
-### **DVD/HD/FHD Sources - AniScale 2 \[Gen 6, OmniSR, Compact, etc.\]**
+### <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/52c56a2c-d2d0-487a-a201-c991dc2b0a06" width="64"/> **DVD/HD/FHD Sources - AniScale 2 \[Gen 6, OmniSR, Compact, etc.\]**
 
 \[Gen 6, OmniSR, Compact, etc.\] The successor and replacement to the original AniScale, and a substantial upgrade in nearly every respect. AniScale 2 is a versatile and faithful anime model trained for use on a variety of post ~2000 sources. Superb blur and depth of field handling, thorough WEB and DVD compression repair, and pleasing line art refinement are the hallmarks of AniScale 2.
 
@@ -46,7 +46,7 @@ If you're looking for a guide on how to train your own model, check out the foll
 - **Detail Retention**: ⭐⭐⭐⭐
 - **Compression Cleanup**: ⭐⭐⭐⭐⭐
 
-### **HD/FHD Live Action TV and Cinema - Open Proteus \[Compact\]**
+### <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/978362f6-540b-424b-9e76-55432c5cea3a" width="64"/> **HD/FHD Live Action TV and Cinema - Open Proteus \[Compact\]**
 
 \[Compact\] Yes... not an anime model for a change! Topaz Video AI is generally considered amongst the industry leaders of in upscaling movies and TV, however it sits behind a significant paywall. Open Proteus is a free alternative to Topaz's Proteus AI, and intended to upscale high-quality and low-noise HD sources to 4K. While I won't claim this is superior to Topaz Proteus by most metrics (which would be a near-impossible feat on open-source architectures anyway), Open Proteus produces output which is highly faithful, without causing oversharpening or upscaling artifacts.
 
