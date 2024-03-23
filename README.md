@@ -30,7 +30,7 @@ If you're looking for a guide on how to train your own model, check out the foll
 # ⏬ Released Models
 
 > [!TIP]
-> Click on the banner to download or for more information.
+> Click on a banner to download or for more information.
 
 [![Banner OpenProteus](https://github.com/Sirosky/Upscale-Hub/assets/2752448/2c8280d1-35ab-4691-9768-ff436d98d2d8)](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus)
 
