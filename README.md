@@ -6,13 +6,13 @@ Upscale Hub: a repository of resources for upscaling and neural network training
 </p>
 
 ******
+<p align="center">
+<img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/69133a38-a37e-4951-af1a-ae8c25a2c0ae" width="128" /> <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/1186247f-fb2b-4b84-96ca-341e0b41c9b8" width="128" /> <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/1119f24a-9492-4e0c-8333-0bb0db41d5b0" width="128" />
+</p>
 
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/2752448/271466226-08daf2a6-5325-42ee-a29b-dcfcd665d735.gif" alt="animated" />
-</p>
-<p align="center">
-  <i>Comparison image for AniScale 2 (WIP).</i>
-</p>
+- [**March 23, 2024 - Ani4K v2 Release**](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4K-v2)
+- [**February 4, 2024 - OpenProteus Release**](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus)
+- [**October 8, 2023 - AniScale 2 Release**](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2)
 
 # ✨ How to Upscale
 
@@ -31,6 +31,8 @@ If you're looking for a guide on how to train your own model, check out the foll
 
 > [!TIP]
 > Click on a banner to download or for more information.
+
+[![Banner Ani4K V2](https://github.com/Sirosky/Upscale-Hub/assets/2752448/ff8eba86-fe90-4b2b-9c51-44248da81c20)](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4K-v2)
 
 [![Banner OpenProteus](https://github.com/Sirosky/Upscale-Hub/assets/2752448/2c8280d1-35ab-4691-9768-ff436d98d2d8)](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus)
 
