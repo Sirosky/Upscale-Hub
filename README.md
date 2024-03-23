@@ -30,7 +30,7 @@ If you're looking for a guide on how to train your own model, check out the foll
 # ⏬ Released Models
 
 > [!TIP]
-> Click on the banner to download or more information.
+> Click on the banner to download or get more information.
 
 [![Banner AniScale 2](https://github.com/Sirosky/Upscale-Hub/assets/2752448/46850c3b-f5e6-4b5e-8b2e-acaf32622a95)](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2)
 
