@@ -30,11 +30,11 @@ If you're looking for a guide on how to train your own model, check out the foll
 # ⏬ Released Models
 
 > [!TIP]
-> Click on the banner to download or get more information.
+> Click on the banner to download or for more information.
 
-[![Banner AniScale 2](https://github.com/Sirosky/Upscale-Hub/assets/2752448/46850c3b-f5e6-4b5e-8b2e-acaf32622a95)](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2)
+[![Banner OpenProteus](https://github.com/Sirosky/Upscale-Hub/assets/2752448/2c8280d1-35ab-4691-9768-ff436d98d2d8)](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus)
 
-[![Banner OpenProteus](https://github.com/Sirosky/Upscale-Hub/assets/2752448/931867ba-e1e9-4226-b6a7-37c6291316a8)](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus)
+[![Banner AniScale 2](https://github.com/Sirosky/Upscale-Hub/assets/2752448/b474d30a-98e4-402a-9a80-bf01682b2306)](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2)
 
 ### **Legacy Models**
 
