@@ -54,8 +54,6 @@ If you're looking for a guide on how to train your own model, check out the foll
 - **Image Comparisons**: [General Comparison](https://slow.pics/c/NM9BzYz0)
   
 ### **Legacy Models**
-![Banner AniScale 2](https://github.com/Sirosky/Upscale-Hub/assets/2752448/2d974639-9d25-439c-b75e-52b31285d1df)
-
 
 Looking for one of my older models? You can [still find them here](https://github.com/Sirosky/Upscale-Hub/blob/main/Legacy/Legacy%20Models.md).
 
