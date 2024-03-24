@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/a36d9d0a-e975-48ef-8281-003ad4a84c7f"/>
 </p>
-<p align="center">
-Upscale Hub: a repository of resources for upscaling and neural network training, as well as a collection of the models I've trained.
-</p>
 
 <p align="center">
 <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/1c9009c0-2358-4f23-8596-945afff8824b" width="256"/> <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/0071c44d-f3ba-4a20-b33a-82e023395f61" width="256"/> <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/e2295014-f222-4531-8a17-991609cd2bd8" width="256"/>
