@@ -7,12 +7,9 @@ Upscale Hub: a repository of resources for upscaling and neural network training
 
 ******
 <p align="center">
-<img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/69133a38-a37e-4951-af1a-ae8c25a2c0ae" width="128" /> <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/1186247f-fb2b-4b84-96ca-341e0b41c9b8" width="128" /> <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/1119f24a-9492-4e0c-8333-0bb0db41d5b0" width="128" />
+<img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/1c9009c0-2358-4f23-8596-945afff8824b" width="256"/> <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/0071c44d-f3ba-4a20-b33a-82e023395f61" width="256"/> <img src="https://github.com/Sirosky/Upscale-Hub/assets/2752448/e2295014-f222-4531-8a17-991609cd2bd8" width="256"/>
 </p>
 
-- [**March 23, 2024 - Ani4K v2 Release**](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4K-v2)
-- [**February 4, 2024 - OpenProteus Release**](https://github.com/Sirosky/Upscale-Hub/releases/tag/OpenProteus)
-- [**October 8, 2023 - AniScale 2 Release**](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniScale2)
 
 # ✨ How to Upscale
 
