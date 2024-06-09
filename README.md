@@ -44,11 +44,12 @@ Looking for one of my older models? You can [still find them here](https://githu
 - [ImgAlign](https://github.com/sonic41592/ImgAlign) by sonic41592: A fantastic little tool which can automate one of those tedious parts of image pair dataset preparation.
 - [Image Pearer](https://github.com/Sirosky/Image-Pearer): A tool to automate the image pairing process by yours truly. Allows automation of the _other_ most tedious part of the image pair dataset preparation process.
 - [OpenModelDB](https://openmodeldb.info/): A fantastic resource for all things upscaling.
-- [neosr](https://github.com/muslll/neosr) by muslll: The hottest new training platform!
+- [neosr](https://github.com/muslll/neosr) by muslll: The hottest new training platform! neosr now has its own Discord, which can be found [here](https://discord.gg/NN2HGtJ3d6).
 - [TraiNNer Redux and Forks](https://github.com/joeyballentine/traiNNer-redux) by Joey, muslll and other contributors. While I've largely moved over to neosr, I've spent a LOT of time on Redux.
 - [Dataset Destroyer](https://github.com/Kim2091/helpful-scripts/tree/main/Dataset%20Destroyer) by Kim2091: A crucial part of the dataset preparation process that makes image degradation oh so easy!
 - The developers and contributors to neural network models such as [ESRGAN]([url](https://github.com/xinntao/ESRGAN)), [SRVGGNetCompact]([url](https://github.com/xinntao/Real-ESRGAN)), [OmniSR](https://github.com/Francis0625/Omni-SR), [SwinIR]([url](https://github.com/JingyunLiang/SwinIR)) and more for developing the networks on which these models are based.
 - [Simple Image Compare](https://github.com/Sirosky/Simple-Image-Compare): Another tool by yours truly. A minimalistic image comparison tool which I developed because ICAT sucks.
+- [AnimeJaNai Converter GUI](https://github.com/the-database/AnimeJaNaiConverterGui) by the database: The easiest way to start upscaling videos.
 - And last but certainly not least, the [Enhance Everything Discord community](https://discord.gg/cpAUpDK) for their invaluable support and guidance. I also blame them for my neural network training addiction.
 
 
