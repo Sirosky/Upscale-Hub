@@ -26,7 +26,7 @@ If you're looking for a guide on how to train your own model, check out the foll
 > [!TIP]
 > Click on a banner to download or for more information.
 
-[![Banner AniSD](https://github.com/Sirosky/Upscale-Hub/assets/2752448/a5e7ae26-eeed-4484-912f-d656e254d0da)](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD)
+[![Banner AniSD](https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-RealPLKSR)
 
 [![Banner Ani4K V2](https://github.com/Sirosky/Upscale-Hub/assets/2752448/ff8eba86-fe90-4b2b-9c51-44248da81c20)](https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4K-v2)
 
