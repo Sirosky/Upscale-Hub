@@ -13,6 +13,11 @@
 - Want to upscale a video? [Take a look here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%BA-How-to-Upscale-a-Video).
 - Want to upscale an image or multiple images? [Take a look here](https://github.com/Sirosky/Upscale-Hub/wiki/%F0%9F%93%B7-How-to-Upscale-an-Image-or-Multiple-Images).
 
+# 👷 Under Construction
+
+- Building out the video upscaling guide.
+- Update to AniSD DC.
+
 # 📈 How to Train Your Own Model
 
 If you're looking for a guide on how to train your own model, check out the following:
